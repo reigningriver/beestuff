@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/VisualEffects/M_Flame.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/VisualEffects/N_FlameBoy.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DS/E65B2GRKVKVSKJSP6QKSAR.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/VisualEffects/M_OverlayFlame.uasset",
+				"/Users/merrygarza/Documents/Unreal Projects/MyProjectEffects/Content/VisualEffects/M_OverlayFlame_Inst.uasset"
+			]
+		}
+	]
+}
